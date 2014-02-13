@@ -7,6 +7,7 @@ public class testHello {
 		System.out.println("Hellow World");
 		System.out.println("ah~");
 		System.out.println("branchaaa");
+		System.out.println("merge after commit junit Test");
 
 	}
 	
